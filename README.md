@@ -16,7 +16,6 @@ This extension enriches the standard **LibreOffice Gallery** with a comprehensiv
 
 | Category | Symbols in the Package |
 | :--- | :--- |
-| **Universal** | Mobius loop (recycling triangle), Tidyman symbol (person with a bin) |
 | **Plastics** | PET (01), HDPE (02), PVC (03), LDPE (04), PP (05), PS (06), O (07) |
 | **Paper & Cardboard** | PAP (20, 21, 22) |
 | **Metals** | FE (40), ALU (41) |
@@ -63,7 +62,6 @@ Toto rozšíření obohacuje standardní **Galerii LibreOffice** o ucelenou sadu
 
 | Kategorie | Symboly v balíčku |
 | :--- | :--- |
-| **Univerzální** | Mobius loop (recyklační trojúhelník), symbol koše (Panáček s košem) |
 | **Plasty** | PET (01), HDPE (02), PVC (03), LDPE (04), PP (05), PS (06), O (07) |
 | **Papír & Karton** | PAP (20, 21, 22) |
 | **Kovy** | FE (40), ALU (41) |
