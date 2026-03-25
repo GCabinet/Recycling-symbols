@@ -1,2 +1,19 @@
+Autorská práva (c) 2026 Green Cabinet
 
-	Symboly recyklace © 2025 by GreenCabinet je licencováno pod licencí Creative Commons Attribution-ShareAlike 4.0 International. Kopii této licence si můžete prohlédnout na adrese https://creativecommons.org/licenses/by-sa/4.0/
+Tímto se uděluje bezplatné povolení každé osobě, která získá kopii
+tohoto softwaru a souvisejících souborů dokumentace (dále jen "software"), aby nakládala s tímto softwarem a související dokumentací.
+se softwarem bez omezení, včetně, ale bez omezení, práv
+používat, kopírovat, upravovat, slučovat, publikovat, distribuovat, poskytovat sublicence a/nebo prodávat
+kopií softwaru, a povolit osobám, kterým je software
+k tomu oprávněny, za následujících podmínek:
+
+Výše uvedené oznámení o autorských právech a toto oznámení o povolení musí být obsaženo ve
+všech kopiích nebo podstatných částech softwaru.
+
+SOFTWARE JE POSKYTOVÁN "TAK, JAK JE", BEZ JAKÉKOLIV ZÁRUKY, VÝSLOVNÉ ČI VÝSLOVNĚ UVEDENÉ V ČLÁNKU 2.
+PŘEDPOKLÁDANÝCH, VČETNĚ, ALE NIKOLIV VÝLUČNĚ, ZÁRUK PRODEJNOSTI,
+VHODNOSTI PRO URČITÝ ÚČEL A NEPORUŠOVÁNÍ PRÁV. V ŽÁDNÉM PŘÍPADĚ SE
+AUTOŘI NEBO DRŽITELÉ AUTORSKÝCH PRÁV NENESOU ODPOVĚDNOST ZA JAKÉKOLI NÁROKY, ŠKODY NEBO JINÉ ŠKODY.
+ODPOVĚDNOST, AŤ UŽ NA ZÁKLADĚ SMLOUVY, DELIKTU NEBO JINAK, VYPLÝVAJÍCÍ Z,
+ZE SOFTWARU NEBO V SOUVISLOSTI S NÍM NEBO S JEHO POUŽÍVÁNÍM ČI JINÝM JEDNÁNÍM S NÍM.
+SOFTWAREM.
