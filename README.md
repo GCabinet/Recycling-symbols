@@ -89,3 +89,4 @@ Toto rozšíření obohacuje standardní **Galerii LibreOffice** o ucelenou sadu
 > Jelikož se jedná o objekty typu „Kresba“, můžete po vložení do LibreOffice Draw kliknout na symbol pravým tlačítkem, zvolit **Rozbít** a následně měnit barvy jednotlivých šipek nebo pozadí podle potřeby (např. obarvení na zelenou pro sklo).
 
 ---
+<img width="814" height="834" alt="image" src="https://github.com/user-attachments/assets/26edb464-ff82-46d3-84bc-d4d061d2c7a0" />
